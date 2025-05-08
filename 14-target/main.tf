@@ -66,5 +66,4 @@ resource "aws_s3_bucket" "selmi123-3" {
 }
 
 
-###########command to apply###########
-# terraform apply -target=aws_instance.terraform_ec2-1 -target=aws_s3_bucket.selmi123-1
+
