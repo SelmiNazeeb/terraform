@@ -1,0 +1,7 @@
+## commands to run
+terraform init
+terraform plan
+terraform apply
+
+#command to destroy resource
+terraform destroy
